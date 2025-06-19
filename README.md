@@ -29,10 +29,12 @@
 ---
 
 ## 📷 프로젝트 이미지
++ MEGA 2560 보드 하나를 사용하였고 편의상 압력 센서와 모터를 구분하였습니다.
 
-| 발판 회로 | LCD 표시 |
+  
+| 발판 회로 | 발판 회로2 |
 |-----------|----------|
-|![Image](https://github.com/user-attachments/assets/7b29ed14-035c-4789-93ad-57894222a580) | ![lcd](images/lcd.jpg) |
+|![Image](https://github.com/user-attachments/assets/7b29ed14-035c-4789-93ad-57894222a580) | ![Image](https://github.com/user-attachments/assets/03cd2897-5fb6-49e3-acb2-2077a2cb156c) |
 
 ---
 
