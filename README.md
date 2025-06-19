@@ -30,9 +30,9 @@
 
 ## 📷 프로젝트 이미지
 
-| 시연 장면 | 발판 회로 | LCD 표시 |
-|-----------|-----------|----------|
-| ![demo](images/demo.jpg) | ![fsr](images/fsr.jpg) | ![lcd](images/lcd.jpg) |
+| 발판 회로 | LCD 표시 |
+|-----------|----------|
+|![Image](https://github.com/user-attachments/assets/7b29ed14-035c-4789-93ad-57894222a580) | ![lcd](images/lcd.jpg) |
 
 ---
 
